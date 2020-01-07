@@ -1,0 +1,8 @@
+title: Ashucn.github.io
+description: Ashu's online resume
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
